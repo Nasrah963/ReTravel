@@ -1,0 +1,109 @@
+# Ignore build results
+[Bb]in/
+[Oo]bj/
+*.userosscache
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userprefs
+
+# Logs
+*.log
+*.tlog
+
+# Visual Studio files
+.vs/
+.vscode/
+
+# Rider files
+.idea/
+
+# Packages and dependencies
+packages/
+*.nupkg
+project.lock.json
+*.nuget.props
+*.nuget.targets
+
+# Publish outputs
+*.Publish.xml
+*.pubxml
+*.pubxml.user
+
+# IIS specific files
+*.dbmdl
+*.dbml
+*.cache
+_UpgradeReport_Files/
+Backup*/  
+UpgradeLog*.xml
+
+# ASP.NET Scaffolding
+.scaffolding/
+
+# Generated files
+*.generated.cs
+Generated_Code/
+
+# Azure related
+AzureDeployment*/**
+*.AzurePubxml
+*.AzurePubxml.user
+
+# Resharper files
+_ReSharper*/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# macOS specific
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+*.bak
+*.swp
+
+# Security-related files
+*.pfx
+*.p12
+
+# IDE configuration files
+*.vsconfig
+
+# JetBrains Rider
+.idea/
+
+# Additional build directories
+dist/
+build/
+
+# Entity Framework migrations
+Migrations/
+
+# Local environment variables
+.env
+.env.local
+
+# Exclude any compiled DLLs
+*.dll
+
+# Exclude executable files
+*.exe
+
+# Exclude test results
+TestResults/
+
+# Exclude Code Coverage Results
+*.coverage
+*.coveragexml
+
+# Ignore npm and frontend dependencies (if applicable)
+node_modules/
+yarn.lock
+package-lock.json

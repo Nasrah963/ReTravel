@@ -476,11 +476,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Zewail city\\Year 5\\Fall\\Software\\Final DB_Project\\DB_Project\\DB_Project.csproj",
+      "projectUniqueName": "C:\\Nasrah\\Retravel\\DB_Project.csproj",
       "projectName": "DB_Project",
-      "projectPath": "D:\\Zewail city\\Year 5\\Fall\\Software\\Final DB_Project\\DB_Project\\DB_Project.csproj",
+      "projectPath": "C:\\Nasrah\\Retravel\\DB_Project.csproj",
       "packagesPath": "C:\\Users\\nasra\\.nuget\\packages\\",
-      "outputPath": "D:\\Zewail city\\Year 5\\Fall\\Software\\Final DB_Project\\DB_Project\\obj\\",
+      "outputPath": "C:\\Nasrah\\Retravel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
